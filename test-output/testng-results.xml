@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-17T22:00:14 CDT" name="Default suite" finished-at="2021-09-17T22:00:36 CDT" duration-ms="22374">
+    <groups>
+    </groups>
+    <test started-at="2021-09-17T22:00:14 CDT" name="Default test" finished-at="2021-09-17T22:00:36 CDT" duration-ms="22374">
+      <class name="com.crm.qa.testcases.DealsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@446293d]" started-at="2021-09-17T22:00:14 CDT" name="setup" finished-at="2021-09-17T22:00:31 CDT" duration-ms="17059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDealIdTest()[pri:2, instance:com.crm.qa.testcases.DealsPageTest@446293d]" started-at="2021-09-17T22:00:31 CDT" name="verifyDealIdTest" finished-at="2021-09-17T22:00:36 CDT" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealIdTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.crm.qa.testcases.DealsPageTest@446293d]" started-at="2021-09-17T22:00:36 CDT" name="closebrowser" finished-at="2021-09-17T22:00:36 CDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.crm.qa.testcases.DealsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
